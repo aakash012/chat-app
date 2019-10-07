@@ -1,15 +1,15 @@
 [
   {
-    id: "/#12poiajdspfoid",
-    name: "Guruji",
-    room: "Hostel Games"
+    id: "/#12poiajdspfoif",
+    name: "Andrew",
+    room: "The Office Fans"
   }
 ];
 
-//adduser(id, name, room)
-//removeUser(id)
-//getuser(id)
-//getUserList(room)
+// addUser(id, name, room)
+// removeUser(id)
+// getUser(id)
+// getUserList(room)
 
 class Users {
   constructor() {
